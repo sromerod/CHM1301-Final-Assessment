@@ -1,0 +1,4 @@
+﻿Material,|Δn(λ=600 nm)|,Switching time (s),Switching Energy Density (fJ/nm3 ),Im(n),Band gap (eV)
+VO2,0.5,1.00E-03,1.50E-09,0.45,0.5
+Ge2Sb2Te5,0.16,5.00E-08,0.031,4.1,0.7
+PDPA,1,8.00E-08,0.029,0.1,2
